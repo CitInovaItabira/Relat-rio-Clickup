@@ -1,0 +1,18 @@
+# Arquivos e diretórios gerados pelo sistema operacional
+__pycache__/
+.DS_Store
+
+# Arquivos gerados pelo Python
+*.pyc
+*.pyo
+*.pyd
+
+# Diretórios de ambiente virtual
+venv/
+env/
+
+# Arquivos de logs
+*.log
+
+# Arquivos de configuração local (se houver)
+config.ini
