@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/hello.py": {
+        "runtime": "python3.8"
+      }
+    }
+  }
+  
